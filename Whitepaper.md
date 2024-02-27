@@ -1,4 +1,4 @@
-# Whitepaper| KX
+# Whitepaper | KX
 ----------------------
 1. Introduction:
  - Token information:
