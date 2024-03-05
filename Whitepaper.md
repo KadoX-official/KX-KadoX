@@ -2,10 +2,10 @@
 ------------------
 1. Introduction:
  - Token information:
- Token and project name: KadoX, KX.
- Total token supply: 200 million tokens.
+ Token and project name: KadoX, KX.<br>
+ Total token supply: 200 million tokens.<br>
  Token contract: 0xb0d91d95fcf44c0bdc1726e7dda24735932a15a8
-
+<br><br>
  2. Technologies:
  - A decentralized system that ensures the security and reliability of transactions.
  - Possibility of conducting microtransactions without significant commissions.
