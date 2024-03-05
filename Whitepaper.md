@@ -1,5 +1,5 @@
 # Whitepaper | KX
-----------------------
+------------------
 1. Introduction:
  - Token information:
  Token and project name: KadoX, KX.
@@ -37,7 +37,9 @@
  Contact CEO:
  https://t.me/saberchazer
 
- =======================
+
+=======================
+
 
  1. Введение:
 - Информация о токене:
