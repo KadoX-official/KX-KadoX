@@ -4,7 +4,8 @@
  Token information:
  - Token and project name: KadoX, KX.<br>
  - Total token supply: 200 million tokens.<br>
- - Token contract: 0xb0d91d95fcf44c0bdc1726e7dda24735932a15a8
+ - Network: TON.<br>
+ - Token contract: EQBqLstePA_wt8ytl25Ao9577fVtlQTgSDtTV8T77rLRu0xN
 <br><br>
  2. Technologies:
  - A decentralized system that ensures the security and reliability of transactions.
@@ -35,7 +36,7 @@
  https://t.me/KadoX_chat
 
  Contact CEO:
- https://t.me/saberchazer
+ https://t.me/KadoX_Manager
 
 
 =======================
@@ -45,7 +46,8 @@
  Информация о токене:
 - Название токена и проекта: KadoX, KX.<br>
 - Общее предложение токена: 200 миллионов токенов.<br>
-- Контракт токена: 0xb0d91d95fcf44c0bdc1726e7dda24735932a15a8
+- Сеть (Network): TON.<br>
+- Контракт токена: EQBqLstePA_wt8ytl25Ao9577fVtlQTgSDtTV8T77rLRu0xN
 <br><br>
 3. Технологии:
 - Децентрализованная система, обеспечивающий безопасность и надежность транзакций.
@@ -76,4 +78,4 @@ Telegram чат:
 https://t.me/KadoX_chat
 
 Связь с CEO:
-https://t.me/saberchazer
+https://t.me/KadoX_Manager
