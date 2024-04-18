@@ -1,4 +1,4 @@
-TOKENOMICS AND DISTRIBUTION:<br>
+TOKENOMICS AND DISTRIBUTION:<br><br>
 Tokenomics | KX:
 - Total token supply: 200.000.000 KX;
 - Initial market valuation: Coming soon;
