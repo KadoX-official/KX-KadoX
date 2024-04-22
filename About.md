@@ -9,14 +9,14 @@
 Google Почта: kadox.official.kx@gmail.com
 <br>-------------------<br>
 Telegram чат: https://t.me/KadoX_chat
-<br>
+<br>-------------------<br>
 Telegram general:
 https://t.me/KadoX_chat
-<br>
+<br>-------------------<br>
 Связь с CEO: https://t.me/KadoX_Manager
-<br>
+<br>-------------------<br>
 WebSite:
 https://kadox.xyz/
-<br>
+<br>-------------------<br>
 Twitter (X):
 https://x.com/KadoxKX
